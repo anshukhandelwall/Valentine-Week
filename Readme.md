@@ -5,7 +5,7 @@ Each day has its own dedicated page with unique styling, animations, and interac
 
 🌐 **Live Website:**  
 ```bash
-https://valentine-week-abhi.netlify.app
+
 ```
 ---
 
@@ -97,12 +97,12 @@ The project is deployed using **Netlify** with the following settings:
 
 ## 👨‍💻 Author
 
-**Abhishek Singh**  
+**Anshu khandelwal**  
 B.Tech CSE Student | Aspiring Software Developer  
 
 ## 🔗 GitHub:
 ```bash
-https://github.com/abhii026/Valentine-Week 
+https://github.com/anshukhandelwall/Valentine-Week 
 ```
 ---
 
